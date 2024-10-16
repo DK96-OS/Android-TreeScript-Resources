@@ -1,0 +1,7 @@
+module/
+  build.gradle
+  src/
+    main/
+      java/
+    androidTest/
+      java/
