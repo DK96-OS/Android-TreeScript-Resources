@@ -1,0 +1,11 @@
+src/
+  main/
+    java/
+  test/
+    java/
+  testFixtures/
+    java/
+  androidTest/
+    java/
+  debug/
+    java/
